@@ -1,8 +1,0 @@
-name: mre-quality
-channels:
-  - defaults
-dependencies:
-  - python=3.9
-  - scikit-learn=v1.1.2
-  - pip:
-    - mlflow=1.14.1
